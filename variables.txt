@@ -1,0 +1,4 @@
+variable "aws_key_pair" {
+    default = "C:/Users/ASUS/Downloads/India22"
+  
+}
